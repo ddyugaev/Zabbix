@@ -1,0 +1,3 @@
+[submodule "zabbix-papercut"]
+	path = zabbix-papercut
+	url = https://github.com/ddyugaev/zabbix-papercut.git
